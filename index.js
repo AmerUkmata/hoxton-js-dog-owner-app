@@ -97,7 +97,7 @@ function addDog2(){
     thesection.append(h2El, formEl, labelEl, inputEl, label2El , input2El , label3El , textareaEl , input3El)
     formEl.append(labelEl, inputEl, label2El, input2El, label3El, textareaEl, input3El)
 }
-addDog2()
+
 // <!-- 
 //   This is a template for the dog list item
 
